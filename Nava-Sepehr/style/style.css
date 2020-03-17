@@ -1,0 +1,12 @@
+div {
+    margin: 5px;
+    zoom: 1;
+    -moz-transform: scale(1);
+
+}
+
+#nava0 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
